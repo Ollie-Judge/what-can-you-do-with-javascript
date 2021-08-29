@@ -34,3 +34,29 @@ body {
     background: tan;
     font-family: sans-serif;
 }
+
+/* general */
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* map */
+
+.mapArea {
+    width: 40%;
+    height: 40%;
+    position: relative;
+    text-align: center;
+    top: 25vh;
+    left: 60vh;
+}
+
+#map {
+    position: relative;
+    text-align: center;
+    height: 100%;
+}
