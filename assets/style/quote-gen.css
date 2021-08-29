@@ -34,3 +34,28 @@ body {
     background: tan;
     font-family: sans-serif;
 }
+
+/* quote generator */
+
+.background {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#newQuote {
+    text-align: center;
+    position: relative;
+    top: 30vh;
+    height: 12vh;
+    width: 18vw;
+    box-shadow: 0vh 0vh 0.5vh 0.5vh black;
+}
+
+#quoteBox {
+    text-align: center;
+    position: relative;
+    top: 45vh;
+}
