@@ -1,7 +1,7 @@
 # what can you do with javascript
 -----
 ## User Experiance
------
+
 ### User Goals
 
 *I need a website that shows me the simple possibilities of javascript so I can understand what is possible
@@ -65,13 +65,31 @@ Testing websites used:
 
 #### Javascript testing
 
-![](assets/img/home-js-testing.png)
+![home page javascript testing](assets/img/home-js-testing.png)
 
-![](assets/img/clock-js-testing.png)
+![clock javascript testing](assets/img/clock-js-testing.png)
 
-![](assets/img/change-colour-js-testing.png)
+![change colour javasript testing](assets/img/change-colour-js-testing.png)
 
-![](assets/img/quote-gen-js-testing.png)
+![quote generator javascript testing](assets/img/quote-gen-js-testing.png)
 
-![](assets/img/todo-js-testing.png)
+![to do list javascript testing](assets/img/todo-js-testing.png)
+
+-----
+
+## Deployment
+
+the project was deployed to GitHub Pages, these are the steps i took to deploy my project using this service:
+
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository, locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. locate the now published site link in the "GitHub Pages" section.
+
+-----
+
+## Credits
+
+* For inspiration of what projects i should include i used thsi website: https://jsbeginners.com/     javascript-projects-for-beginners/
 
