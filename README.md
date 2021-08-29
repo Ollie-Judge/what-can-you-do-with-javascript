@@ -49,7 +49,7 @@ There will be no imported images as that is not what this website needs nor uses
 
 ![clock html testing](assets/img/clock-testing.png)
 
-![background colour page html testing](assets/img/change-background-colour-testing.png)
+![background colour page html testing](assets/img/change-colour-testing.png)
 
 ![quote generator html testing](assets/img/quote-gen-testing.png)
 
