@@ -1,0 +1,36 @@
+/* navbar */
+
+#navbar {
+    text-align:center;
+    position: fixed;
+    top: 5vh;
+    left: 30vh;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    text-align: center;
+    display: inline;
+    border: 0.2vh solid black;
+    background: darkturquoise;
+    padding: 1em 1em;
+    border-radius: 0.5em;
+    box-shadow: 0.2em 0.2em black;
+    margin-left: 1vw;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+body {
+    background: tan;
+    font-family: sans-serif;
+}
