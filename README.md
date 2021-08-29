@@ -57,17 +57,17 @@ There will be no imported images as that is not what this website needs nor uses
 
 #### CSS testing
 
-![](assets/img/css-testing.png)
+![css testing screenshot](assets/img/css-testing.png)
 
 #### Javascript testing
 
-![](assets/img/.png)
+![](assets/img/home-js-testing.png)
 
-![](assets/img/.png)
+![](assets/img/clock-js-testing.png)
 
-![](assets/img/.png)
+![](assets/img/change-colour-js-testing.png)
 
-![](assets/img/.png)
+![](assets/img/quote-gen-js-testing.png)
 
-![](assets/img/.png)
+![](assets/img/todo-js-testing.png)
 
