@@ -48,7 +48,7 @@ body {
     padding: 0;
 }
 
-button {
+#changeColor {
     border-radius: 2vh;
     height: 14vh;
     width: 17vw;
