@@ -34,3 +34,23 @@ body {
     background: tan;
     font-family: sans-serif;
 }
+
+/* clock */
+
+#clockContainer {
+    height: 50vh;
+    width: 50vw;
+    text-align: center;
+    position: relative;
+    top: 25vh;
+    left: 50vh;
+    border: 0.7vh solid black;
+    border-radius: 4vh;
+    box-shadow: 2vh 2vh black;
+    background: skyblue;
+}
+
+p {
+    position: static;
+    font-size: 3em;
+}
