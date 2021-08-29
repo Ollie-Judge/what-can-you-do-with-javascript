@@ -45,6 +45,10 @@ There will be no imported images as that is not what this website needs nor uses
 
 #### HTML testing
 
+Testing websites used:
+* HTML: https://validator.w3.org/#validate_by_input
+* CSS: https://jigsaw.w3.org/css-validator/#validate_by_input
+* Javascript: https://javascriptvalidator.net/
 ![home page html testing](assets/img/home-testing.png)
 
 ![clock html testing](assets/img/clock-testing.png)
