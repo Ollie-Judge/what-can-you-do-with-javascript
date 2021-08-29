@@ -34,3 +34,44 @@ body {
     background: tan;
     font-family: sans-serif;
 }
+
+/* ToDo list */
+
+.container {
+    position: relative;
+    top: 18vh;
+    height: 80%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#inputBox {
+    text-align: center;
+    width: 25vw;
+    height: 5vh;
+}
+
+#todoList {
+    margin: 0;
+    width: 10vw;
+    text-align: center;
+    position: relative;
+    width: 35vw;
+    font-size: 1.8em;
+}
+
+#addItem {
+    height: 6vh;
+    width: 8.5vw;
+}
+
+.instructions {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
