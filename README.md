@@ -24,3 +24,24 @@ There will be no imported images as that is not what this website needs nor uses
 ### Wireframes
 
 ![png of the wireframe for this project](assets/img/js-wireframe.png)
+
+-----
+
+## Technologies Used
+
+* HTML 
+* CSS
+* Javascript
+* google maps API
+* gitHub
+* gitPod
+* gitHub Pages
+
+------
+
+## Testing
+
+### Validators
+
+#### HTML testing
+
