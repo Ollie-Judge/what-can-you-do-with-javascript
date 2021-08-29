@@ -54,3 +54,20 @@ There will be no imported images as that is not what this website needs nor uses
 ![quote generator html testing](assets/img/quote-gen-testing.png)
 
 ![todo list html testing](assets/img/todo-testing.png)
+
+#### CSS testing
+
+![](assets/img/css-testing.png)
+
+#### Javascript testing
+
+![](assets/img/.png)
+
+![](assets/img/.png)
+
+![](assets/img/.png)
+
+![](assets/img/.png)
+
+![](assets/img/.png)
+
